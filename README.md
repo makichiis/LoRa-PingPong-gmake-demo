@@ -1,4 +1,5 @@
 # LoRa-PingPong-gmake-demo
+A sample LoRa ping-pong program for the STM32WL5x dev boards. Built with gmake. 
 
 ## Building
 GNU Make -- as well as whatever embedded ARM compiler preferred for your
