@@ -1,0 +1,2 @@
+[ ] Write a configure script for driver installation/configuration.
+    - CMake ??? Maybe bash. (portability is scared of me)
