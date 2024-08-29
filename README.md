@@ -1,5 +1,13 @@
 # LoRa-PingPong-gmake-demo
 
+## Building
+GNU Make -- as well as whatever embedded ARM compiler preferred for your
+system -- is **REQUIRED** to build this project.
+
+It is recommended to use Visual Studio Code with the stm32-for-vscode extension
+to build and flash this project, unless you know what you're doing (lord knows
+I dont).
+
 ## Configuration
 If changing the parameters/conditions for your STM32WL5x dev board, STM32CubeMX is
 highly recommended as this project uses STM32Cube boilerplate.
