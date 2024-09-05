@@ -1,2 +1,8 @@
 [ ] Write a configure script for driver installation/configuration.
     - CMake ??? Maybe bash. (portability is scared of me)
+
+Intellisense not working:
+https://www.reddit.com/r/embedded/comments/173f9cn/vs_code_intellisensemode/
+https://stackoverflow.com/questions/30118107/vscode-intellisense-not-working
+
+Try to get working manually ? Relatively easy to configure... or get gmake to work with clangd with compile commands idk
