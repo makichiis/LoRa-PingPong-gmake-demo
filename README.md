@@ -5,15 +5,15 @@ A sample LoRa ping-pong program for the STM32WL5x dev boards. Built with gmake.
 **NOTE: It is REQUIRED to use stm32-for-vscode to build this project. This is due to the
 toolchain that it uses internally. Using `arm-none-eabi-gcc` does NOT work outside of
 Visual Studio Code because of the version of the compiler that `stm32-for-vscode` uses
-internally. I will make a note here when this is figure dout and fixed.**
+internally. I will make a note here when this is figured out and fixed.**
 
-### Ignore:
+<!-- ### Ignore:
 GNU Make -- as well as whatever embedded ARM compiler preferred for your
 system -- is **REQUIRED** to build this project.
 
 It is recommended to use Visual Studio Code with the stm32-for-vscode extension
 to build and flash this project, unless you know what you're doing (lord knows
-I dont).
+I dont). -->
 
 ## Configuration
 If changing the parameters/conditions for your STM32WL5x dev board, STM32CubeMX is
